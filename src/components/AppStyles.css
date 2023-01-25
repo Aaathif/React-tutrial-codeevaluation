@@ -1,0 +1,14 @@
+/*  Styling and CSS basic - 20 */
+
+ /* Styling react components 4 ways
+    01. CSS styleSheet
+    02. inline styling
+    03. CSS Modules
+    04. CSS in JS Libraries        */
+
+/*  03. CSS Modules */
+
+
+.error {
+    color: blue;
+}
